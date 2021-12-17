@@ -1,10 +1,8 @@
 # Elias-Yoc
-
 ![SquidGame-256px-5](https://user-images.githubusercontent.com/64809211/146615905-5bc73733-7e27-406e-bb75-6783a61b81dc.gif)
 
-
 ## `My skills`
-![AnimatedEmojies-512px-20](https://user-images.githubusercontent.com/64809211/146615289-e8c45a08-c5a6-4ca8-8859-36df4824cdca.gif)
+![AnimatedEmojies-256px-249](https://user-images.githubusercontent.com/64809211/146616201-7cdbaa07-1a38-42ff-9935-123fb9ba7ee2.gif)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
