@@ -1,6 +1,6 @@
 # Elias-Yoc
 <p>Web Frontend Developer, aprendiendo de manera autodidacta en el desarrollo de páginas o aplicaciones </p>
-<p>En este repositorio encontrarás los repos que he desarrollado a lo largo de mi trayectoria, verás ciertas páginas como la lista de pokemons, lista de rick & morty, una app para crear memes, etc.</p>
+<p>En este perfil encontrarás los proyectos que he desarrollado a lo largo de mi trayectoria, verás ciertas páginas como la lista de pokemons, lista de rick & morty, una app para crear memes, etc.</p>
 
 ![SquidGame-256px-5](https://user-images.githubusercontent.com/64809211/146615905-5bc73733-7e27-406e-bb75-6783a61b81dc.gif)
 
