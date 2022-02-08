@@ -1,4 +1,6 @@
 # Elias-Yoc
+<p>Web Frontend Developer, aprendiendo de manera autodidacta al desarrollo de paginas o aplicaciones </p>
+
 ![SquidGame-256px-5](https://user-images.githubusercontent.com/64809211/146615905-5bc73733-7e27-406e-bb75-6783a61b81dc.gif)
 
 ## `My skills`
